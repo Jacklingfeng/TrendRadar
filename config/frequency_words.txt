@@ -37,6 +37,8 @@ Anthropic
 动漫
 switch2
 动物森友会
+Epic
+steam
 塌房
 # 可加入您特别关注的明星或剧集
 # 易烊千玺
